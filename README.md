@@ -1,5 +1,7 @@
 # PointOfSaleSystem
+
 **Please give this Repo a ⭐ if you liked it!!**
+
 📦 POS System (PHP + MySQL) This is a web-based Point of Sale (POS) system built using PHP, MySQL, and Bootstrap. The project supports role-based login functionality for Admin and regular Users, and includes modules for managing inventory and processing sales. It is designed for small to medium-sized businesses to manage daily transactions and stock in a simple, user-friendly way.
 
 🔑 Features
