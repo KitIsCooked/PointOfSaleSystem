@@ -32,4 +32,6 @@ Start the project on a local server (XAMPP/LAMP/WAMP)
 
 Login using default Admin/User credentials (defined in tbl_user)
 
+!!Also rememeber to create a and name the folder(productimages - exactly like i wrote with no capital letters) inside ui folder!!
+
 
