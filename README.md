@@ -3,13 +3,13 @@
 
 🔑 Features
 
-1)User Authentication: Secure login system with role validation (Admin / User) using PHP Sessions.
+User Authentication: Secure login system with role validation (Admin / User) using PHP Sessions.
 
-2) Role-Based Dashboard Access: Admins are redirected to the admin dashboard and Users are redirected to the POS sales interface.
+Role-Based Dashboard Access: Admins are redirected to the admin dashboard and Users are redirected to the POS sales interface.
 
-3) Responsive UI: Styled using Bootstrap and integrated with SweetAlert2 and Toastr for dynamic feedback.
+Responsive UI: Styled using Bootstrap and integrated with SweetAlert2 and Toastr for dynamic feedback.
 
-4) Modular Structure: Organized file system with clear separation of UI and database interaction (ui/, config/, plugins/ folders).
+Modular Structure: Organized file system with clear separation of UI and database interaction (ui/, config/, plugins/ folders).
 
 🚀 Technologies Used
 Frontend: HTML5, CSS3, Bootstrap 4, Font Awesome
