@@ -7,9 +7,9 @@
 
 2) Role-Based Dashboard Access
 
-  i) Admins are redirected to the admin dashboard.
+i) Admins are redirected to the admin dashboard.
   
-  ii) Users are redirected to the POS sales interface.
+ii) Users are redirected to the POS sales interface.
 
 3) Responsive UI: Styled using Bootstrap and integrated with SweetAlert2 and Toastr for dynamic feedback.
 
