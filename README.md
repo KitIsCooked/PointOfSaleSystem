@@ -9,10 +9,9 @@
 
 3) Responsive UI: Styled using Bootstrap and integrated with SweetAlert2 and Toastr for dynamic feedback.
 
-5) Modular Structure: Organized file system with clear separation of UI and database interaction (ui/, config/, plugins/ folders).
+4) Modular Structure: Organized file system with clear separation of UI and database interaction (ui/, config/, plugins/ folders).
 
 🚀 Technologies Used
-
 Frontend: HTML5, CSS3, Bootstrap 4, Font Awesome
 
 Backend: PHP 7+, MySQL (PDO for DB interaction)
